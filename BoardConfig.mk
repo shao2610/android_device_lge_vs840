@@ -12,3 +12,4 @@ TARGET_KERNEL_CONFIG := lucid_defconfig
 TARGET_PREBUILT_KERNEL := device/lge/vs840/kernel
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/vs840/bluetooth
+TARGET_RECOVERY_FSTAB = device/lge/vs840/fstab.iprj
